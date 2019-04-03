@@ -366,7 +366,7 @@
 				TargetAttributes = {
 					6D2475361CAAB1050044D223 = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1020;
 					};
 					6D2475401CAAB1050044D223 = {
 						CreatedOnToolsVersion = 7.2;
@@ -395,6 +395,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 6D24752D1CAAB1050044D223;
@@ -663,7 +664,7 @@
 				PRODUCT_NAME = TextAttributes;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -684,7 +685,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.delba.TextAttributes;
 				PRODUCT_NAME = TextAttributes;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
